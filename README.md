@@ -308,4 +308,6 @@ Potential future work includes stronger automated test execution, production sec
 
 ## License
 
-No license file is currently included. Add an appropriate license before distributing the repository publicly.
+Portfolio Rebalancer is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this project under the terms of the license.
